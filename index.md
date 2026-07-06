@@ -1,6 +1,6 @@
 ---
 title: "首页"
-layout: page
+layout: home
 ---
 
 # 欢迎来到我的学术主页
