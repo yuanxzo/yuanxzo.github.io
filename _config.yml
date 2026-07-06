@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 # 网站基本信息
 title: "Welcome - Bo Yang (杨博)"
 description: "研究方向 | 论文 | 项目"
-url: "https://yangb.github.io"  # 替换为你的实际域名
+url: "https://yuanxzo.github.io"  # 替换为你的实际域名
 
 # Markdown 渲染引擎
 markdown: kramdown
