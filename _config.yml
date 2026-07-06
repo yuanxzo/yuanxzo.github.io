@@ -15,6 +15,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - vendor/
 
 # 默认布局设置
 defaults:
@@ -22,3 +23,4 @@ defaults:
       path: ""
     values:
       layout: "page"  # 所有页面默认使用 page 布局
+  
