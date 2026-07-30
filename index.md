@@ -16,6 +16,7 @@ layout: default
 &nbsp;
 &nbsp;
 &nbsp;
+
 ## 研究方向
 
 - **研究方向一**：简要描述
@@ -24,6 +25,8 @@ layout: default
 &nbsp;
 &nbsp;
 &nbsp;
+<br>
+<br>
 
 ## 最新动态
 
